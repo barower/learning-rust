@@ -1,0 +1,7 @@
+[package]
+name = "ch3-05-temperature"
+version = "0.1.0"
+authors = ["Bartlomiej Osinski <barower@gmail.com>"]
+edition = "2018"
+
+[dependencies]
